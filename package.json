@@ -1,0 +1,7 @@
+{
+  "name": "automacao 4AllTests",
+  "packageManager": "yarn@4.2.2",
+  "devDependencies": {
+    "cypress": "^13.13.3"
+  }
+}
